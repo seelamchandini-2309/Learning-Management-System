@@ -49,5 +49,4 @@ Learning-Management-System/
 
 **Chandini Seelam**
 
-GitHub: https://github.com/seelamchandini-2309
-
+GitHub: [Chandini Seelam](https://github.com/seelamchandini-2309)
